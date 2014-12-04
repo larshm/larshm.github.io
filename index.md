@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Juleønsker
-header: Lars' juleønsker!
+title: JuleÃ¸nsker
+header: Lars' juleÃ¸nsker!
 ---
 
 1. [Riot Black Box](http://www.4sound.dk/guitar/tilbehoer/stroemforsyningr/riot-black-box) - 399,-
 
-2. Øl
+2. Ã˜l
 
 3. Lakrids
+
 
