@@ -4,9 +4,5 @@ title: Juleønsker
 header: Lars' juleønsker!
 ---
 
-1. [Cioks Baby2 strømforsyning](http://orkestergraven.dk/produkter/effektpedaler/strmforsyninger?productid=1674) - *565,-*
-    * Jeg skal nok betale differencen i evt. fragt.. ellers ligger orkestergraven næsten lige ved siden af webdanmark.
-
-2. Øl
-
-3. Lakrids
+- [Purépresse](http://www.kunstogkokkentoj.dk/da/product/haandredskaber/purepresse-fortinnet) - *107,-*
+- [Bøfbanker](http://www.kunstogkokkentoj.dk/da/product/haandredskaber/boefbanker-italiensk-oe-83-cm) - *182,-*
