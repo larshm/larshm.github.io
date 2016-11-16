@@ -4,5 +4,9 @@ title: Juleønsker
 header: Lars' juleønsker!
 ---
 
-- [Purépresse](http://www.kunstogkokkentoj.dk/da/product/haandredskaber/purepresse-fortinnet) - *107,-*
-- [Bøfbanker](http://www.kunstogkokkentoj.dk/da/product/haandredskaber/boefbanker-italiensk-oe-83-cm) - *182,-*
+- [Purépresse](http://www.kunstogkokkentoj.dk/da/product/haandredskaber/purepresse-fortinnet)
+- [Bøfbanker](http://www.kunstogkokkentoj.dk/da/product/haandredskaber/boefbanker-italiensk-oe-83-cm)
+- [Collins glas (hiball glas)](https://www.drinkworld.dk/tab-categories/glas/hiball-glas/island-hi-ball-6-stk-33-cl.html)
+- [Drink sæt](http://www.imerco.dk/koekkenudstyr/koekkengrej/casa-drinkssaet?id=100348099)
+- Strømper (Sort)
+- Underbukser (Large)
