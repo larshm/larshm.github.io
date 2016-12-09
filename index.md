@@ -11,3 +11,4 @@ header: Lars' juleønsker!
 - [Drink sæt](http://www.imerco.dk/koekkenudstyr/koekkengrej/casa-drinkssaet?id=100348099)
 - Strømper (Sort)
 - Underbukser (Large)
+- Tyk skovmandsskjorte
